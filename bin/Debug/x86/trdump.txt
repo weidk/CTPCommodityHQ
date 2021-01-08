@@ -1,0 +1,42 @@
+
+Dump of file C:\CTPSharp-master_2\CTPSharp-master\Debug\MdApi.dll
+
+File Type: DLL
+
+  Section contains the following exports for MdApi.dll
+
+    00000000 characteristics
+    FFFFFFFF time date stamp
+        0.00 version
+           1 ordinal base
+          18 number of functions
+          18 number of names
+
+    ordinal hint RVA      name
+
+          1    0 000010F0 ?Connect@@YAPAVCThostFtdcMdApi@@PAD0PAVCMdSpi@@@Z = ?Connect@@YAPAVCThostFtdcMdApi@@PAD0PAVCMdSpi@@@Z (class CThostFtdcMdApi * __cdecl Connect(char *,char *,class CMdSpi *))
+          2    1 00001190 ?CreateSpi@@YAPAVCMdSpi@@XZ = ?CreateSpi@@YAPAVCMdSpi@@XZ (class CMdSpi * __cdecl CreateSpi(void))
+          3    2 00001250 ?DisConnect@@YAXPAVCThostFtdcMdApi@@@Z = ?DisConnect@@YAXPAVCThostFtdcMdApi@@@Z (void __cdecl DisConnect(class CThostFtdcMdApi *))
+          4    3 000012A0 ?GetApiVersion@@YAPBDXZ = ?GetApiVersion@@YAPBDXZ (char const * __cdecl GetApiVersion(void))
+          5    4 000012E0 ?GetTradingDay@@YAPBDPAVCThostFtdcMdApi@@@Z = ?GetTradingDay@@YAPBDPAVCThostFtdcMdApi@@@Z (char const * __cdecl GetTradingDay(class CThostFtdcMdApi *))
+          6    5 00001340 ?RegOnFrontConnected@@YGXPAVCMdSpi@@P6GHXZ@Z = ?RegOnFrontConnected@@YGXPAVCMdSpi@@P6GHXZ@Z (void __stdcall RegOnFrontConnected(class CMdSpi *,int (__stdcall*)(void)))
+          7    6 00001370 ?RegOnFrontDisconnected@@YGXPAVCMdSpi@@P6GHH@Z@Z = ?RegOnFrontDisconnected@@YGXPAVCMdSpi@@P6GHH@Z@Z (void __stdcall RegOnFrontDisconnected(class CMdSpi *,int (__stdcall*)(int)))
+          8    7 000013A0 ?RegOnHeartBeatWarning@@YGXPAVCMdSpi@@P6GHH@Z@Z = ?RegOnHeartBeatWarning@@YGXPAVCMdSpi@@P6GHH@Z@Z (void __stdcall RegOnHeartBeatWarning(class CMdSpi *,int (__stdcall*)(int)))
+          9    8 000013D0 ?RegOnRspError@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcRspInfoField@@H_N@Z@Z = ?RegOnRspError@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcRspInfoField@@H_N@Z@Z (void __stdcall RegOnRspError(class CMdSpi *,int (__stdcall*)(struct CThostFtdcRspInfoField *,int,bool)))
+         10    9 00001400 ?RegOnRspSubMarketData@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcSpecificInstrumentField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z = ?RegOnRspSubMarketData@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcSpecificInstrumentField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z (void __stdcall RegOnRspSubMarketData(class CMdSpi *,int (__stdcall*)(struct CThostFtdcSpecificInstrumentField *,struct CThostFtdcRspInfoField *,int,bool)))
+         11    A 00001430 ?RegOnRspUnSubMarketData@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcSpecificInstrumentField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z = ?RegOnRspUnSubMarketData@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcSpecificInstrumentField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z (void __stdcall RegOnRspUnSubMarketData(class CMdSpi *,int (__stdcall*)(struct CThostFtdcSpecificInstrumentField *,struct CThostFtdcRspInfoField *,int,bool)))
+         12    B 00001460 ?RegOnRspUserLogin@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcRspUserLoginField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z = ?RegOnRspUserLogin@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcRspUserLoginField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z (void __stdcall RegOnRspUserLogin(class CMdSpi *,int (__stdcall*)(struct CThostFtdcRspUserLoginField *,struct CThostFtdcRspInfoField *,int,bool)))
+         13    C 00001490 ?RegOnRspUserLogout@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcUserLogoutField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z = ?RegOnRspUserLogout@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcUserLogoutField@@PAUCThostFtdcRspInfoField@@H_N@Z@Z (void __stdcall RegOnRspUserLogout(class CMdSpi *,int (__stdcall*)(struct CThostFtdcUserLogoutField *,struct CThostFtdcRspInfoField *,int,bool)))
+         14    D 000014C0 ?RegOnRtnDepthMarketData@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcDepthMarketDataField@@@Z@Z = ?RegOnRtnDepthMarketData@@YGXPAVCMdSpi@@P6GHPAUCThostFtdcDepthMarketDataField@@@Z@Z (void __stdcall RegOnRtnDepthMarketData(class CMdSpi *,int (__stdcall*)(struct CThostFtdcDepthMarketDataField *)))
+         15    E 000014F0 ?ReqUserLogin@@YAXPAVCThostFtdcMdApi@@HQAD11@Z = ?ReqUserLogin@@YAXPAVCThostFtdcMdApi@@HQAD11@Z (void __cdecl ReqUserLogin(class CThostFtdcMdApi *,int,char * const,char * const,char * const))
+         16    F 000015E0 ?ReqUserLogout@@YAXPAVCThostFtdcMdApi@@HQAD1@Z = ?ReqUserLogout@@YAXPAVCThostFtdcMdApi@@HQAD1@Z (void __cdecl ReqUserLogout(class CThostFtdcMdApi *,int,char * const,char * const))
+         17   10 000016B0 ?SubMarketData@@YAXPAVCThostFtdcMdApi@@QAPADH@Z = ?SubMarketData@@YAXPAVCThostFtdcMdApi@@QAPADH@Z (void __cdecl SubMarketData(class CThostFtdcMdApi *,char * * const,int))
+         18   11 00001710 ?UnSubscribeMarketData@@YAXPAVCThostFtdcMdApi@@QAPADH@Z = ?UnSubscribeMarketData@@YAXPAVCThostFtdcMdApi@@QAPADH@Z (void __cdecl UnSubscribeMarketData(class CThostFtdcMdApi *,char * * const,int))
+
+  Summary
+
+        2000 .data
+       10000 .rdata
+        3000 .reloc
+        1000 .rsrc
+       32000 .text

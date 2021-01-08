@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CTPCore</name>
+    </assembly>
+    <members>
+        <member name="T:CTPCore.DataCallback">
+            <summary>
+            数据回调委托
+            </summary>
+            <param name="result">结果对象</param>
+        </member>
+        <member name="T:CTPCore.DataCallback`1">
+            <summary>
+            数据回调委托
+            </summary>
+            <typeparam name="T">结果对象类型</typeparam>
+            <param name="result">结果对象</param>
+        </member>
+        <member name="T:CTPCore.DataListCallback`1">
+            <summary>
+            数据列表回调委托
+            </summary>
+            <typeparam name="T">列表元素类型</typeparam>
+            <param name="result">列表结果对象</param>
+        </member>
+        <member name="T:CTPCore.LibraryWrapper">
+            <summary>
+            DLL动态加载类
+            </summary>
+        </member>
+        <member name="P:CTPCore.LibraryWrapper.IsAmd64">
+            <summary>
+            是否是64位系统
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:CTPCore.LibraryWrapper.ProcessorArchitecture">
+            <summary>
+            获取CPU架构
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:CTPCore.LibraryWrapper.LoadLibrary(System.String)">
+            <summary>
+            加载动态链接库
+            </summary>
+            <param name="filename">DLL文件路径</param>
+            <returns></returns>
+        </member>
+        <member name="M:CTPCore.LibraryWrapper.GetProcAddress(CTPCore.SafeLibraryHandle,System.String)">
+            <summary>
+            获取方法地址
+            </summary>
+            <param name="handle">句柄</param>
+            <param name="procname">函数名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:CTPCore.LibraryWrapper.FreeLibrary(System.IntPtr)">
+            <summary>
+            释放动态链接库
+            </summary>
+            <param name="handle">句柄</param>
+            <returns></returns>
+        </member>
+        <member name="M:CTPCore.LibraryWrapper.#ctor(System.String,System.String[])">
+            <summary>
+            构造方法
+            </summary>
+            <param name="filename">DLL文件路径</param>
+            <param name="dependencies">依赖DLL</param>
+        </member>
+        <member name="M:CTPCore.LibraryWrapper.GetUnmanagedFunction``1(System.String)">
+            <summary>
+            将非托管方法转换为委托
+            </summary>
+            <typeparam name="T">委托类型</typeparam>
+            <param name="name">方法名称</param>
+            <returns></returns>
+        </member>
+        <member name="M:CTPCore.LibraryWrapper.Dispose">
+            <summary>
+            释放资源
+            </summary>
+        </member>
+        <member name="T:CTPCore.DataListResult`1">
+            <summary>
+            集合对象
+            </summary>
+            <typeparam name="T">集合元素类型</typeparam>
+        </member>
+        <member name="P:CTPCore.DataListResult`1.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataListResult`1.IsSuccess">
+            <summary>
+            是否成功
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataListResult`1.Error">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataListResult`1.ErrorCode">
+            <summary>
+            错误代码
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataListResult`1.ReturnCode">
+            <summary>
+            返回代码
+            </summary>
+        </member>
+        <member name="M:CTPCore.DataListResult`1.#ctor">
+            <summary>
+            构造函数
+            </summary>
+        </member>
+        <member name="T:CTPCore.DataResult">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult.IsSuccess">
+            <summary>
+            是否成功
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult.Error">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult.ErrorCode">
+            <summary>
+            错误代码
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult.ReturnCode">
+            <summary>
+            返回代码
+            </summary>
+        </member>
+        <member name="T:CTPCore.DataResult`1">
+            <summary>
+            返回结果
+            </summary>
+            <typeparam name="T">结果对象类型</typeparam>
+        </member>
+        <member name="P:CTPCore.DataResult`1.Result">
+            <summary>
+            返回结果
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult`1.IsSuccess">
+            <summary>
+            是否成功
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult`1.Error">
+            <summary>
+            错误信息
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult`1.ErrorCode">
+            <summary>
+            错误代码
+            </summary>
+        </member>
+        <member name="P:CTPCore.DataResult`1.ReturnCode">
+            <summary>
+            返回代码
+            </summary>
+        </member>
+        <member name="T:CTPCore.SafeLibraryHandle">
+            <summary>
+            安全链接库句柄
+            </summary>
+        </member>
+        <member name="M:CTPCore.SafeLibraryHandle.ReleaseHandle">
+            <summary>
+            释放句柄
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
