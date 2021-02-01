@@ -77,11 +77,11 @@ namespace CTPHQ
                     _isLogin = true;
                     _api.SubscribeMarketData(this._codeList);
                     Console.WriteLine("   ");
-                    Console.WriteLine("*******************************************************");
-                    Console.WriteLine("*****  CTP国债期货行情接收中，请勿关闭窗口！！！  *****");
-                    Console.WriteLine("*****  CTP国债期货行情接收中，请勿关闭窗口！！！  *****");
-                    Console.WriteLine("*****  CTP国债期货行情接收中，请勿关闭窗口！！！  *****");
-                    Console.WriteLine("*******************************************************");
+                    Console.WriteLine("***********************************************");
+                    Console.WriteLine("*****  CTP行情接收中，请勿关闭窗口！！！  *****");
+                    Console.WriteLine("*****  CTP行情接收中，请勿关闭窗口！！！  *****");
+                    Console.WriteLine("*****  CTP行情接收中，请勿关闭窗口！！！  *****");
+                    Console.WriteLine("***********************************************");
                     Console.WriteLine("   ");
                 }
             });

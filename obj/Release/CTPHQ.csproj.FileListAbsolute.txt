@@ -26,3 +26,46 @@ D:\workspace\交易接口\总线\CTPHQ\obj\Release\CTPHQ.csproj.CopyComplete
 D:\workspace\交易接口\总线\CTPHQ\obj\Release\CTPHQ.exe
 D:\workspace\交易接口\总线\CTPHQ\obj\Release\CTPHQ.pdb
 D:\workspace\交易接口\总线\CTPHQ\obj\Release\CTPHQ.exe.config
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPHQ.exe.config
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPHQ.exe
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPHQ.pdb
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPCore.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPMarketApi.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Newtonsoft.Json.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Pipelines.Sockets.Unofficial.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\RabbitMQ.Client.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\SqlSugar.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\StackExchange.Redis.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Diagnostics.PerformanceCounter.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.IO.Pipelines.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Memory.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Numerics.Vectors.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Threading.Channels.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Buffers.dll
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPCore.pdb
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPCore.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPMarketApi.pdb
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\CTPMarketApi.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Newtonsoft.Json.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\Pipelines.Sockets.Unofficial.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\RabbitMQ.Client.pdb
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\RabbitMQ.Client.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\StackExchange.Redis.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Diagnostics.PerformanceCounter.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.IO.Pipelines.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Memory.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Numerics.Vectors.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Threading.Channels.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\obj\Release\CTPHQ.csprojAssemblyReference.cache
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\obj\Release\CTPHQ.exe.config
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\obj\Release\CTPHQ.csproj.CopyComplete
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\obj\Release\CTPHQ.exe
+D:\workspace\OneDrive - Lolihub\总线\CTPCOMMODITYHQ\obj\Release\CTPHQ.pdb
